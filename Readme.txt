@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Thanks for using this websites!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: ArunSharma's Portfolio
+Author: Arun Sharma
